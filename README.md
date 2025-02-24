@@ -23,6 +23,7 @@ Removed duplicate or blank values.
 Standardized date formats (Reporting_Starts & Reporting_Ends).
 Converted cost columns to numeric format for calculations.
 Handled missing values in Ad Set Budget & Amount Spent.
+
 🚀 How to Use This Dashboard
 1️⃣ Load Data into Power BI – Import the dataset and check data types.
 2️⃣ Build Visuals – Use KPI Cards, Donut Charts, and Line Graphs for insights.
